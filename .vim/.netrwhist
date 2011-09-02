@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/gautam'
+let g:netrw_dirhist_2='/home/gautam/Desktop'
+let g:netrw_dirhist_3='/home/gautam/Desktop/newDir'
+let g:netrw_dirhist_4='/home/gautam/Aptana Studio 3 Workspace/FeedPaperPinax/apps/FeedPaper'
